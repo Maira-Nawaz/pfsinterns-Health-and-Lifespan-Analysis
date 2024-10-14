@@ -1,4 +1,4 @@
-# pfsinterns-Health-and-Lifespan-Analysis
+# Health and Lifespan Analysis
 
 This project analyzes life expectancy data by examining factors such as healthcare,
 immunizations, mortality, finances, and social conditions to identify key predictors of
@@ -7,4 +7,4 @@ impact of healthcare expenditure, infant and adult mortality, lifestyle habits, 
 schooling on lifespan. It also explores the relationships between life expectancy and
 habits like smoking and alcohol consumption, as well as the role of immunization
 coverage. The study provides valuable insights to help countries prioritize areas for
-improvement and effectively enhance the overall life expectancy of their populations
+improvement and effectively enhance the overall life expectancy of their populations.
